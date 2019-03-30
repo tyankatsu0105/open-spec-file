@@ -1,0 +1,1 @@
+VS Code extension that open spec file
